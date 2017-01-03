@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="right_btn" size="320.000000 320.000000" />
+    <ImageTarget name="left_btn" size="320.000000 320.000000" />
+    <ImageTarget name="vuforia_target" size="554.000000 554.000000" />
+    <ImageTarget name="right" size="405.000000 405.000000" />
+    <ImageTarget name="left" size="405.000000 405.000000" />
+    <ImageTarget name="maze" size="405.000000 405.000000" />
+  </Tracking>
+</QCARConfig>
